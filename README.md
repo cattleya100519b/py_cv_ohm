@@ -1,7 +1,7 @@
 ## Book
 - [深層学習による画像認識の基礎](https://www.ohmsha.co.jp/book/9784274231841/)
 - [GitHub](https://github.com/sg-nm/image-recognition)
-- Purchase Date: YYMMDD (kinoppy)
+- Purchase Date: 240817 (kinoppy)
 
 <img src="https://www.ohmsha.co.jp/Portals/0/book/large/978-4-274-23184-1.jpg" height="150px">
 
